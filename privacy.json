@@ -42,5 +42,7 @@
   "ShoppingListEnabled": false,
   "MediaRecommendationsEnabled": false,
 
-  "ComponentUpdatesEnabled": false
+  "ComponentUpdatesEnabled": false,
+
+  "ExtensionManifestV2Availability": 2
 }
